@@ -95,9 +95,13 @@ ul {
 
 .thumb {
   margin: 0 auto 24px;
-
   width: 77px;
   height: 73px;
+}
+
+.thumb--small {
+  height: 70px;
+  margin-bottom: 23px;
 }
 
 .thumb img {
